@@ -12,6 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           hello i am vadivellan
+          hello i am sample test
         </p>
       </div>
     );
